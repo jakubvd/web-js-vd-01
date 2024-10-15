@@ -1,4 +1,3 @@
-<script>
     document.addEventListener("DOMContentLoaded", function() {
     const containers = document.querySelectorAll('.octahedron-3d'); // Select all elements with the class 'octahedron-3d'
 
@@ -84,4 +83,3 @@
         observer.observe(container);
     });
 });
-</script>
